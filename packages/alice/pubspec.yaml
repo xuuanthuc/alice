@@ -17,14 +17,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_local_notifications: ^17.2.3
-  rxdart: ^0.28.0
-  path_provider: ^2.1.4
-  permission_handler: ^11.3.1
-  package_info_plus: ^8.0.0
+  flutter_local_notifications: ^14.1.4
+  rxdart: ^0.27.7
+  path_provider: ^2.1.1
+  permission_handler: ^11.0.1
+  package_info_plus: ^4.1.0
   open_filex: ^4.5.0
   sensors_plus: ^6.0.1
-  share_plus: ^10.0.2
+  share_plus: ^8.0.1
   collection: ^1.18.0
   url_launcher: ^6.3.0
   equatable: ^2.0.5
